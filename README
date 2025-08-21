@@ -2,9 +2,9 @@
 
 **一键生成高价值加密钱包，穿透式链上资产扫描工具**
 
-![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/yourusername/bip39-scanner/ci.yml?branch=main)
-![PyPI Version](https://img.shields.io/pypi/v/bip39-scanner)
-![License](https://img.shields.io/github/license/yourusername/bip39-scanner)
+![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/zengyuzhang30-hub/btc-crack/ci.yml?branch=main)
+![PyPI Version](https://img.shields.io/pypi/v/btc-crack)
+![License](https://img.shields.io/github/license/zengyuzhang30-hub/btc-crack)
 
 ## 📖 项目概述
 本项目基于 **BIP-39 标准**实现智能助记词生成与链上资产扫描，通过分布式计算与量子加速算法，帮助用户快速定位高价值加密钱包地址。支持 ETH、BSC、Polygon 等 30+ 公链，提供从助记词生成到余额查询的完整工作流。
@@ -39,7 +39,7 @@
 ### 安装步骤
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/bip39-scanner.git
+git clone https://github.com/zengyuzhang30-hub/btc-crack.git
 cd bip39-scanner
 
 # 安装依赖
