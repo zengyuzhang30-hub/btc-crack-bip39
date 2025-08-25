@@ -1,10 +1,11 @@
 # BIP39 助记词生成器
 
 
-#自己瞎琢磨写的软件，bip39随机钱包自动查询余额，支持 btc，eth，usdt。看这效果，
-#大家觉得怎么样？余额查询是有办法提速的，还有其他热门钱包，也会逐步加上去。
-#欢迎技术朋友一起探讨，一起淘金，梦想要有，万一实现了呢？万一变万亿！
-#有兴趣的朋友可以留言免费试用，热度高就开源，大家一起追梦…
+# 自己瞎琢磨写的软件，bip39随机钱包自动查询余额，支持 btc，eth，usdt。看这效果，
+# 大家觉得怎么样？余额查询是有办法提速的，还有其他热门钱包，也会逐步加上去。
+# 欢迎技术朋友一起探讨，一起淘金，梦想要有，万一实现了呢？万一变万亿！
+# 有兴趣的朋友可以留言免费试用，热度高就开源，大家一起追梦…
+
 <video width="320" height="240" controls>
   <source src="效果展示.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -12,11 +13,11 @@
 
 **一键生成高价值加密钱包，穿透式链上资产扫描工具**
 
-![免费30次使用](https://raw.githubusercontent.com/zengyuzhang30-hub/btc-crack/refs/heads/main/bip39-0.png "免费30次使用")
-![软件截图1](https://raw.githubusercontent.com/zengyuzhang30-hub/btc-crack/refs/heads/main/bip39-1.png "软件截图1")
-![软件截图2](https://raw.githubusercontent.com/zengyuzhang30-hub/btc-crack/refs/heads/main/bip39-2.png "软件截图2")
-![软件截图3](https://raw.githubusercontent.com/zengyuzhang30-hub/btc-crack/refs/heads/main/bip39-3.png "软件截图3")
-![软件截图4](https://raw.githubusercontent.com/zengyuzhang30-hub/btc-crack/refs/heads/main/bip39-4.png "软件截图4")
+![免费30次使用](https://raw.githubusercontent.com/zengyuzhang30-hub/btc-crack/refs/heads/main/bip39-0.png)
+![软件截图1](https://raw.githubusercontent.com/zengyuzhang30-hub/btc-crack/refs/heads/main/bip39-1.png)
+![软件截图2](https://raw.githubusercontent.com/zengyuzhang30-hub/btc-crack/refs/heads/main/bip39-2.png)
+![软件截图3](https://raw.githubusercontent.com/zengyuzhang30-hub/btc-crack/refs/heads/main/bip39-3.png)
+![软件截图4](https://raw.githubusercontent.com/zengyuzhang30-hub/btc-crack/refs/heads/main/bip39-4.png)
 
 ![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/zengyuzhang30-hub/btc-crack/ci.yml?branch=main)
 ![PyPI Version](https://img.shields.io/pypi/v/btc-crack)
